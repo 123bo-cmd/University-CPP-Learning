@@ -10,4 +10,4 @@ Markdown
 
 ### 2. 簡易學期成績計算系統 (`GradeCalculator.cpp`)
 * 進階運用 **建構子初始化列表 (Constructor Initialization List)**，寫出更高效、符合現代規範的 C++ 程式碼。
-* 優化 **浮點數（double)**的型態對齊。
+* 優化 **浮點數(Double)** 的型態對齊。
